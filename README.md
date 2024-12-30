@@ -25,7 +25,7 @@ A modern, fast, and easy-to-use online converter that transforms JavaScript code
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/buraketmen/javascript-to-typscript.git
+   git clone https://github.com/buraketmen/javascript-to-typescript.git
    cd js-to-ts
    ```
 
